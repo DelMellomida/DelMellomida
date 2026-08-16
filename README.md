@@ -47,11 +47,25 @@ Short description of what it does and the stack used.
 🔗 [Live Demo](#) · [Repo](#)
 -->
 
+### 🐍 Contribution Snake
+
+![](https://raw.githubusercontent.com/DelMellomida/DelMellomida/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/DelMellomida/DelMellomida/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=DelMellomida&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=DelMellomida&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DelMellomida&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 📈 Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=DelMellomida&theme=tokyo-night&hide_border=false)
+
+### 🕐 Recent Activity
+<!--START_SECTION:activity-->
+<!-- This section auto-updates daily via a GitHub Action (see .github/workflows/update-readme.yml) -->
+<!--END_SECTION:activity-->
 
 ### 🏆 GitHub Trophies
 
