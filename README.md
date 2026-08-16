@@ -64,7 +64,7 @@ Short description of what it does and the stack used.
 
 ### 🕐 Recent Activity
 <!--START_SECTION:activity-->
-<!-- This section auto-updates daily via a GitHub Action (see .github/workflows/update-readme.yml) -->
+1. 🎉 Merged PR [#26](https://github.com/DelMellomida/kai/pull/26) in [DelMellomida/kai](https://github.com/DelMellomida/kai)
 <!--END_SECTION:activity-->
 
 ### 🏆 GitHub Trophies
