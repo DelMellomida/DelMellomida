@@ -64,7 +64,7 @@ Short description of what it does and the stack used.
 
 ### 🕐 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/Kai-Devcon/kai/pull/28) in [Kai-Devcon/kai](https://github.com/Kai-Devcon/kai)
+1. 💪 Opened PR [#29](https://github.com/Kai-Devcon/kai/pull/29) in [Kai-Devcon/kai](https://github.com/Kai-Devcon/kai)
 <!--END_SECTION:activity-->
 
 ### 🏆 GitHub Trophies
