@@ -64,7 +64,7 @@ Short description of what it does and the stack used.
 
 ### 🕐 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/DelMellomida/portfolio/pull/6) in [DelMellomida/portfolio](https://github.com/DelMellomida/portfolio)
+1. 🎉 Merged PR [#1](https://github.com/DelMellomida/study-topic-generator/pull/1) in [DelMellomida/study-topic-generator](https://github.com/DelMellomida/study-topic-generator)
 <!--END_SECTION:activity-->
 
 ### 🏆 GitHub Trophies
