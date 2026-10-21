@@ -4,7 +4,7 @@ I'm a developer interested in **programming and anime**, currently leveling up i
 
 - 🌱 Currently learning: AI/ML, Web Development
 - 💞️ Looking to collaborate on: web & AI/ML projects
-- 🌐 Portfolio: [delmellomida.vercel.app](https://delmellomida.vercel.app/)
+- 🌐 Portfolio: [delmellomida.is-a.dev](https://delmellomida.is-a.dev/)
 - 📱 Contact: 09917951577
 - 😄 Pronouns: He/Him
 
